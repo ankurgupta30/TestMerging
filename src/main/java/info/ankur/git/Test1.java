@@ -5,6 +5,7 @@ public class Test1 {
 
 		print("Tom1");
 		print("Harry1");
+		print("Dick");
 	}
 	
 	private static void print(String str){
