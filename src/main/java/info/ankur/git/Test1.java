@@ -7,9 +7,12 @@ public class Test1 {
 		featureForFuture1("This is not meant for production");
 		print("Dick");
 		print("Harry1");
+		print("My release stuff");
 		print("Sherry");
 		print("Dick");
-		featureForFuture("This is not meant for production");
+		print("My Release stuff");
+    featureForFuture("This is not meant for production");
+
 	}
 	private static void featureForFuture(String str){
 			System.out.println("Hello " + str);
