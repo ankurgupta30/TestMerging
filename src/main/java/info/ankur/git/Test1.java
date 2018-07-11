@@ -4,7 +4,7 @@ public class Test1 {
 	public static void main(String[] str){
 		print("Tom");
 		print("Dick");
-		print("Harry");
+		print("Harry1");
 	}
 	
 	private static void print(String str){
