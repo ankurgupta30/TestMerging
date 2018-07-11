@@ -2,8 +2,8 @@ package info.ankur.git;
 
 public class Test1 {
 	public static void main(String[] str){
-		print("Tom");
-		print("Dick");
+
+		print("Tom1");
 		print("Harry1");
 	}
 	
