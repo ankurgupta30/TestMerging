@@ -6,8 +6,10 @@ public class Test1 {
 		print("Tom1");
 		print("Dick");
 		print("Harry1");
+		print("My release stuff");
 		print("Sherry");
 		print("Dick");
+		print("My Release stuff");
 	}
 	
 	private static void print(String str){
