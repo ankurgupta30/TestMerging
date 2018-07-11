@@ -6,6 +6,7 @@ public class Test1 {
 		print("Tom1");
 		print("Dick");
 		print("Harry1");
+		print("Sherry");
 		print("Dick");
 	}
 	
