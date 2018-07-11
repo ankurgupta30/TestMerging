@@ -7,6 +7,7 @@ public class Test1 {
 		print("Dick");
 		print("Harry1");
 		print("Sherry");
+		print("Dick");
 	}
 	
 	private static void print(String str){
